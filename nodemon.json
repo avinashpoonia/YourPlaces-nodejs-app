@@ -1,9 +1,0 @@
-{
-  "env": {
-    "DB_USER": "avinash",
-    "DB_PASSWORD": "avinash",
-    "DB_NAME": "mern",
-    "GOOGLE_API_KEY": "AIzaSyD2x_szsnpXokiQb5X8PdGI-mm2u0WxSlY",
-    "JWT_KEY": "supersecret_dont_share"
-  }
-}
