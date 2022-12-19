@@ -1,6 +1,8 @@
 # YourPlaces-nodejs-app
 This is the repository for the nodejs "YourPlaces" app.
 
+App demo video: https://youtu.be/e-bW3bXzEZw
+
 For the backend of this application. I used Reactjs, Nodejs, Expressjs and MongoDB database. 
 Developed REST API. 
 Used Google API to locate a place on Google maps.
